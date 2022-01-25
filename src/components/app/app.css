@@ -1,0 +1,10 @@
+.app-main {
+  padding: 15px;
+}
+.top-panel{
+  margin: 0px 0px 10px 0px; 
+}
+.top-panel .search-panel {
+  margin-right: 5px;
+  flex-grow: 1;
+}
